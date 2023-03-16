@@ -1,0 +1,83 @@
+@media screen and (max-width: 1235px) {
+    .navbar {
+        position: relative;
+    }
+  
+    .menu {
+        display: none;
+    }
+
+    .logo {
+        margin: 0;
+        text-align: center;
+    }
+
+    .header {
+        padding-top: 5px;
+        height: 860px;
+    }
+
+    .headline {
+        margin-top: 0;
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+
+    .headline h2 {
+        font-weight: 900px;
+        font-size:  15px;
+        color: #180f4a;
+        padding: 0;
+        margin: 0;
+    }
+    
+    #h2-1 {
+        letter-spacing: 10px;
+    } 
+
+    
+    #h2-2 {
+        font-size: 50px;
+    }
+    
+    .img-headline {
+        flex: 100%;
+        align-items: center;
+        padding: 0;
+        margin: 5%;
+        margin-top: -30px;
+    }
+
+    #img {
+        width: 55%;
+        height: 55%;
+        border-radius: 20px;
+        -webkit-box-shadow: 5px 5px 37px 17px #ff6565; 
+        box-shadow: 5px 5px 10px 10px #7c7b7b;
+        
+    }
+
+    section h2 {
+        width: 100%;
+        font-size: 25px;
+        margin: 0;
+        font-family: 'Lobster', cursive;
+        font-weight: bold;
+        color: #180f4a;
+    }
+
+    .card {
+        width: 100%;
+    }
+    
+    .p-whatsap {
+        display: none;
+    }
+    .whatsap {
+        width: 80px;
+        height: 80px;
+        padding: 10px;
+        margin-right: 20px;
+    }
+}
