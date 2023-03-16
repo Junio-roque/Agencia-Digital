@@ -2,7 +2,7 @@
 
 <h2>Mais uma página feito com HTML e CSS</h2>
 
-<p>Utilizando as tag semântica do HTML e feature do CSS deixando a página mais responsiva</p>
+<p>Usando tag semântica do HTML e feature do CSS deixando a página mais responsiva</p>
 <p>
 <p>Utilizando</p>
 <ul> 
