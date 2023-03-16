@@ -1,6 +1,6 @@
 <h1>Agência Digital</h1>
 
-<h2>Mai uma página feito com HTML e CSS</h2>
+<h2>Mais uma página feito com HTML e CSS</h2>
 
 <p>Utilizando as tag semântica do HTML e feature do CSS deixando a página mais responsiva</p>
 <p>
